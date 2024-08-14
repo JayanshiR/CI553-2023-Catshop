@@ -1,5 +1,5 @@
 # 2023-CI553-catshop
-CatShop system release for the 2022-CI553 cohort. This is a deliberately convoluted legacy codebase for the CI553 coursework.
+CatShop system release for the 2023-CI553 cohort. This is a deliberately convoluted legacy codebase for the CI553 coursework.
 
 ## Notes
 
